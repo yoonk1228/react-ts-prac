@@ -10,6 +10,7 @@
 
 # production
 /build
+.gitmessage.txt
 
 # misc
 .DS_Store
